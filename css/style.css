@@ -1,0 +1,31 @@
+body {
+    background: rgb(247, 216, 80);
+    margin-left: 20px;
+}
+
+header {
+    margin-top: 100px;
+}
+
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+
+p {
+    color: grey;
+    font-size: 18px;
+}
+
+h2  {
+    font-family: fantasy;
+}
+
+#img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+#Serviços {
+    background: indianred;
+}
